@@ -33,6 +33,15 @@ function generateMarkdown(data) {
 
   ${renderLicenseBadge(data.license)}
 
+  ## Table of Contents 
+  * [Description](#description)
+  * [Installation](#installation)
+  * [Usage](#usage)
+  * [Contribution Rules](#contribution-rules)
+  * [Test](#tests)
+  * [License](#license)
+  * [Contact Me](#contact-me)
+
   ## Description
   ${data.description}
 

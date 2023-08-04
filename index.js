@@ -80,7 +80,7 @@ async function init() {
         const markdown = generateMarkdown(responses);
         console.log(markdown);
 
-        writeToFile('sampleReadMe.md', markdown);
+        writeToFile("sampleReadMe.md", markdown);
     } catch (error) {
         console.log(error);
     }

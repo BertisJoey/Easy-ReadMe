@@ -1,13 +1,22 @@
-# Easy-readme by bertisjoey
+# easy-readme by bertisjoey
 
-  [![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
+  [![License: MPL 2.0](https://img.shields.io/badge/License-MPL_2.0-brightgreen.svg)](https://opensource.org/licenses/MPL-2.0)
+
+  ## Table of Contents 
+  * [Description](#description)
+  * [Installation](#installation)
+  * [Usage](#usage)
+  * [Contribution Rules](#contribution-rules)
+  * [Test](#tests)
+  * [License](#license)
+  * [Contact Me](#contact-me)
 
   ## Description
-  It was created to help create readmes quickly
+  It was made to help people create readme files easily
 
 
   ## Installation
-  clone the repo
+  Clone the repo
 
   
   ## Usage
@@ -23,8 +32,8 @@
 
 
   ## License
-  This project is licensed by Apache. Please follow this link for information on the license (https://opensource.org/licenses/Apache-2.0)
+  This project is licensed by Mozilla. Please follow this link for information on the license (https://opensource.org/licenses/MPL-2.0)
 
   
   ## Contact Me
-  through github
+  github
