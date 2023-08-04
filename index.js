@@ -49,10 +49,9 @@ const questions = [
         name: "license",
         choices: [
             "MIT",
-            "GNU Gen Pub v3.0",
             "Mozilla",
             "Apache",
-            "The Unlicense"
+            "None",
         ],
     },
     {
@@ -83,7 +82,7 @@ async function init() {
 
         writeToFile('sampleReadMe.md', markdown);
     } catch (error) {
-        consolee.log(error);
+        console.log(error);
     }
 
 };
